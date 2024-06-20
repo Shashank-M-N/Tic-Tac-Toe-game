@@ -6,7 +6,7 @@ This project presents a Tic Tac Toe game implemented in Python using reinforceme
 ## Usage
 1. Run `tic-tac-toe game.ipynb` to play interactive matches against a computer or another player.
 2. Execute `tic-tac-toe training.ipynb` to train a custom reinforcement learning policy for playing Tic Tac Toe. 
-> Certainly! To use the Tic-Tac-Toe program, follow these steps: First, execute the `tic-tac-toe training.ipynb` notebook to train the policy. Next, run the `tic-tac-toe game.ipynb` notebook to play the game. Keep in mind that if you're using this for the first time, there won't be any pre-trained policy on your local system. After the initial training, you can directly run `tic-tac-toe game.ipynb` since the policy will be available in your local system. Enjoy playing! 😊
+> First, execute the `tic-tac-toe training.ipynb` notebook to train the policy. Next, run the `tic-tac-toe game.ipynb` notebook to play the game. Keep in mind that if you're using this for the first time, there won't be any pre-trained policy on your local system. After the initial training, you can directly run `tic-tac-toe game.ipynb` since the policy will be available in your local system. Enjoy playing! 😊
 
 ## Features
 - Engage in matches against a computer player trained using reinforcement learning, with the option to choose the level of difficulty.
