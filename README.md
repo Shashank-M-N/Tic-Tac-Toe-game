@@ -15,9 +15,9 @@ This project presents a Tic Tac Toe game implemented in Python using reinforceme
 
 ## Results
 - The computer's performance against a random move generator was exceptional. Notably, it has **never been defeated** and has secured **victory in over 98%** of matches.  
-![Result of computer vs random moves](/Computer%20vs%20Random%20moves.png)
+![Result of computer vs random moves](images/Computer%20vs%20Random%20moves.png)
 - Here are the results of two computers playing against each other, with a **10% probability** of making random moves. It's evident that ties occur most frequently, approximately **73%** of the time. Moreover, observing from the perspective of the *first player (Player 1)*, we note that *Player 1* has a higher chance of winning compared to *Player 2*.  
-![Result of computer vs computer](/Computer%20vs%20Computer.png)
+![Result of computer vs computer](images/Computer%20vs%20Computer.png)
 
 ## Requirements
 - Python 3
